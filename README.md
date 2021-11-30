@@ -24,7 +24,7 @@ I'm curious to learn more about
 
    
 
-If you want to connect feel free to contact me at LinkedIn  <a href="https://www.linkedin.com/in/mark-kiermayer-639005165/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+If you want to connect, I'll be happy to read your message on LinkedIn  <a href="https://www.linkedin.com/in/mark-kiermayer-639005165/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
 <!---
 mtkier94/mtkier94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
