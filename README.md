@@ -1,7 +1,18 @@
-Hi, I’m Mark! 👋
+Hi! 👋
 -----------------------------------------------------
 
-I'm a PhD student at Ulm University. I mainly write code in python to test models of machine and deep learning for my research in actuarial science.
+This repo contains code for my PhD (2018-2022) research in machine & deep learning in the context of actuarial science. Code enables interested researches to train, test and run the respective models. Relevant papers include
+
+1/ Kiermayer, M., Weiß, C. (2024). Neural calibration of hidden inhomogeneous Markov chains: informa-
+tion decompression in life insurance. Mach Learn 113, 7129–7156 (2024). https://doi.org/10.1007/s10994-
+024-06551-w
+2/ Kiermayer, M. (2022). Modeling Surrender Risk in Life Insurance: theoretical and experimental insight.
+Scandinavian Actuarial Journal 0(0), 1–32.
+3/ Kiermayer, M., Weiß, C. (2021). Grouping of contracts in insurance using neural networks. Scandinavian
+Actuarial Journal 2021(4), 295–322.
+
+-----------------------------------------------------
+More generally about me:
 
 Languages in my toolbox
   - python 
@@ -17,11 +28,6 @@ I'm curious to learn more about
   - distributed training
   - cloud computing
   - learning theory
-  
-  
- A short profile of me can be found at 
- <a href="https://en.hochschule-ruhr-west.de/research/research-in-faculties/institute-of-natural-sciences/beschaeftigte/mark-kiermayer/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.nrw%2Ftermin%2Ftalente-netzwerk-treffen-semesterstart%2F&psig=AOvVaw3l9iMr7hy3mrUediGxa-i6&ust=1638394743871000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjm3peGwfQCFQAAAAAdAAAAABAY" alt="HRW" width="30"></a>
-
    
 
 If you want to connect, I'll be happy to read your message on LinkedIn  <a href="https://www.linkedin.com/in/mark-kiermayer-639005165/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
