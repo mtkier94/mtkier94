@@ -5,11 +5,11 @@ This repo contains code for my PhD (2018-2022) research in machine & deep learni
 
 1/ Kiermayer, M., Weiß, C. (2024). Neural calibration of hidden inhomogeneous Markov chains: informa-
 tion decompression in life insurance. Mach Learn 113, 7129–7156 (2024). https://doi.org/10.1007/s10994-
-024-06551-w
+024-06551-w <br>
 2/ Kiermayer, M. (2022). Modeling Surrender Risk in Life Insurance: theoretical and experimental insight.
-Scandinavian Actuarial Journal 0(0), 1–32.
+Scandinavian Actuarial Journal 0(0), 1–32.<br>
 3/ Kiermayer, M., Weiß, C. (2021). Grouping of contracts in insurance using neural networks. Scandinavian
-Actuarial Journal 2021(4), 295–322.
+Actuarial Journal 2021(4), 295–322.<br>
 
 -----------------------------------------------------
 More generally about me:
